@@ -1,0 +1,58 @@
+{
+    "album-1":{
+        "name": "ablum-1",
+        "description": "Welcome to album-1",
+        "photos":
+        [
+            {
+              "albumId": 1,
+              "id": 1,
+              "title": "Data Flow",
+              "url": "https://via.placeholder.com/600/92c952",
+              "thumbnailUrl": "https://media.istockphoto.com/photos/abs-hologram-data-flow-grid-picture-id1212064060?k=20&m=1212064060&s=612x612&w=0&h=LrW6gxz5eC5H-fyJF6PFdCUdtHAfBRMxho1hx-YluL4="
+            },
+            {
+              "albumId": 1,
+              "id": 2,
+              "title": "Data Molecularity",
+              "url": "https://via.placeholder.com/600/771796",
+              "thumbnailUrl": "https://media.istockphoto.com/vectors/wavy-abstract-graphic-design-vector-id626777936?k=20&m=626777936&s=612x612&w=0&h=lne7Bj9ciKDBVP1h2HQ7mRvqweMWxCEOzC4IY4A1DKk="
+            },
+            {
+              "albumId": 1,
+              "id": 3,
+              "title": "3D Sound Waves",
+              "url": "https://via.placeholder.com/600/24f355",
+              "thumbnailUrl": "https://media.istockphoto.com/vectors/sound-waves-with-colored-dots-big-data-abstract-visualization-vector-id1073941846?k=20&m=1073941846&s=612x612&w=0&h=59QH3DRtghpY2Gb-bhciACwAYju1v17bpbmHkcFM8jU="
+            }
+        ]
+    },
+    "album-2":{
+        "name": "ablum-2",
+        "description": "Welcome to album-2",
+        "photos":
+        [
+            {
+              "albumId": 2,
+              "id": 1,
+              "title": "See the forets through the trees?",
+              "url": "https://via.placeholder.com/600/d32776",
+              "thumbnailUrl": "https://media.istockphoto.com/photos/path-through-sunlit-forest-picture-id1205214235?k=20&m=1205214235&s=612x612&w=0&h=TUNxmXOyHZ67rtPr8u9kmpn5lQAp9E-oMA2LfEshiu0="
+            },
+            {
+              "albumId": 2,
+              "id": 2,
+              "title": "Just outside of Hobbiton",
+              "url": "https://via.placeholder.com/600/f66b97",
+              "thumbnailUrl": "https://media.istockphoto.com/photos/sunlit-natural-spruce-tree-forest-picture-id537361232?k=20&m=537361232&s=612x612&w=0&h=fLuY-DMkCWN58nCbuQCf1rj2PfUT1yRnoSa7UUiJiss="
+            },
+            {
+              "albumId": 2,
+              "id": 3,
+              "title": "Greener Pastures",
+              "url": "https://via.placeholder.com/600/56a8c2",
+              "thumbnailUrl": "https://media.istockphoto.com/photos/sycamore-tree-in-summer-field-at-sunset-england-uk-picture-id476116580?k=20&m=476116580&s=612x612&w=0&h=tZL4WDfgtV-0ko0nxidANitYB2bv2tCPDLhgYWYEnC4="
+            }
+        ]
+    }
+}

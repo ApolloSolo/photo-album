@@ -1,0 +1,15 @@
+<%- include('partials/head') %>
+    <body>
+
+        <%- include('partials/navbar') %>
+
+        <h1>Welcome to <%=album.toUpperCase()%></h1>
+        
+        <% for(let i = 0; i < data.photos.length; i++){ %>
+            <p><%=data.photos[i].title%></p>
+            <img src=<%=data.photos[i].thumbnailUrl%>>
+        <% } %>
+           
+        <script src="" async defer></script>
+    </body>
+</html>
